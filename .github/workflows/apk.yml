@@ -1,0 +1,5 @@
+git init -b main
+git add .
+git commit -m "FrameLocal"
+git remote add origin https://github.com/YOUR-NAME/framelocal.git
+git push -u origin main
